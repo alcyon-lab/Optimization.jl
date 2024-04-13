@@ -1,5 +1,7 @@
 module Optimization
 
-# Write your package code here.
+include("GomoryCuts.jl")
+
+export gomory_cuts
 
 end
