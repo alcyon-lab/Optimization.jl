@@ -1,7 +1,7 @@
 name = "Optimization"
 uuid = "86cf9b30-10dd-4360-aae2-6440cfec5ab7"
 authors = ["Alcyon Lab"]
-version = "1.0.0"
+version = "0.1.0"
 
 [compat]
 julia = "1.2"
